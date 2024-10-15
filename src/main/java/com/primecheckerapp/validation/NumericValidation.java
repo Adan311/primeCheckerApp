@@ -1,4 +1,4 @@
-package com.primecheckerapp;
+package com.primecheckerapp.validation;
 
 public class NumericValidation implements Validation {
     public boolean validate(String input) {

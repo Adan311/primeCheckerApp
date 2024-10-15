@@ -1,6 +1,6 @@
-import com.primecheckerapp.LengthValidation;
-import com.primecheckerapp.NonEmptyValidation;
-import com.primecheckerapp.NumericValidation;
+import com.primecheckerapp.validation.LengthValidation;
+import com.primecheckerapp.validation.NonEmptyValidation;
+import com.primecheckerapp.validation.NumericValidation;
 import org.junit.Test;
 import static org.junit.Assert.*;
 

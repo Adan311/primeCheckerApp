@@ -1,4 +1,4 @@
-package com.primecheckerapp;
+package com.primecheckerapp.validation;
 
 // Step 2: Implement concrete validation classes
 public class NonEmptyValidation implements Validation {

@@ -1,4 +1,4 @@
-package com.primecheckerapp;
+package com.primecheckerapp.validation;
 
 public class LengthValidation implements Validation {
     private final int maxLength;
